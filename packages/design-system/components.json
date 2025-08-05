@@ -15,6 +15,6 @@
     "utils": "@workspace/design-system/lib/utils",
     "hooks": "@workspace/design-system/hooks",
     "lib": "@workspace/design-system/lib",
-    "design-system": "@workspace/design-system/components"
+    "design-system": "@workspace/design-system/components/ui"
   }
 }

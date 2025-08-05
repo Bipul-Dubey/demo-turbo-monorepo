@@ -6,7 +6,7 @@
   "tailwind": {
     "config": "",
     "css": "../../packages/design-system/src/styles/globals.css",
-    "baseColor": "neutral",
+    "baseColor": "slate",
     "cssVariables": true
   },
   "iconLibrary": "lucide",
@@ -15,6 +15,6 @@
     "hooks": "@/hooks",
     "lib": "@/lib",
     "utils": "@workspace/design-system/lib/utils",
-    "ui": "@workspace/design-system/components"
+    "ui": "@workspace/design-system/components/ui"
   }
 }
