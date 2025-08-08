@@ -59,7 +59,7 @@ This monorepo is structured for scalable development using [pnpm](https://pnpm.i
 
 To add UI components to your app, run:
 ```sh
-pnpm dlx shadcn@latest add button -c apps/web
+pnpm dlx shadcn@latest add button -c packages/design-system
 ```
 Components will be placed in `packages/ui/src/components`.
 
